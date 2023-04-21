@@ -1,0 +1,6 @@
+# Make a copy of this file, and save to `config.ini`
+# Enter your API and Secret Key for use in the example files; No need to add double quote or single quote. For example:
+# api_key=abced12345:qwerty12345asdfg1234
+
+[keys]
+api_key=
