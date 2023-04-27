@@ -11,7 +11,7 @@ pip install tonplay-sdk
 
 ## Get API Key
 
-To get API Key [follow the link](https://docs.tonplay.io/digital-assets-api/api-key)
+To get API Key, [follow the link](https://docs.tonplay.io/digital-assets-api/api-key)
 
 ## RESTful APIs
 
