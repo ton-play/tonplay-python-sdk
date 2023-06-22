@@ -2,7 +2,8 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/tonplay-sdk)](https://pypi.python.org/pypi/tonplay-sdk)
 
-This is a [lightweight library](https://github.com/ton-play/tonplay-python-sdk) that works as a connector to [TON Play public API](https://docs.tonplay.io/)
+
+This is a [lightweight library](https://pypi.org/project/tonplay-sdk/) that works as a connector to [TON Play public API](https://docs.tonplay.io/)
 ## Installation
 
 ```bash
